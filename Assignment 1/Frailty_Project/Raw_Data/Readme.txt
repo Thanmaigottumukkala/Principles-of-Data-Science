@@ -11,7 +11,7 @@ Columns and Units:
 - Weight (pounds): The weight of each participant noted in pounds.
 - Age (years): The age of each participant specified in years.
 - Grip Strength (kilograms): The grip strength measured in kilograms via a hand dynamometer.
-->Frailty (Y/N): The presence(Y) or absence(N) of frailty symptoms in the participant.
+- Frailty (Y/N): The presence(Y) or absence(N) of frailty symptoms in the participant.
 - Frailty was assessed through a physical health evaluation.
 - This dataset is a subset and may require further processing for extended studies.
  
